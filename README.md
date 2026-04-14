@@ -1,2 +1,1 @@
-# github-branch
-Hello, i'm BAYUSATRIOAJI from main branch.
+Hello, i'm BAYUSATRIOAJI from feature/a branch.
